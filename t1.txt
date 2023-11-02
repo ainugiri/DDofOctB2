@@ -1,3 +1,2 @@
 Giri
-calendar
 SRE Foundational Training Program

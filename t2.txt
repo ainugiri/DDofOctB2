@@ -1,9 +1,6 @@
 SRE Foundational Training Program
     Initial commit
     Initial commit
-    Initial commit
-    Initial commit
-    Initial commit
-Giri adding his functions for r2
+\Giri adding his functions for r2
 Prem Kumar 
 Added Code
